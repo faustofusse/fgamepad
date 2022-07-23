@@ -1,0 +1,19 @@
+broforce1:
+  x: "a"
+  circle: "b"
+  square: "c"
+  triangle: "d"
+  left: "e"
+  right: "f"
+  up: "g"
+  down: "h"
+
+broforce2:
+  x: "1"
+  circle: "2"
+  square: "3"
+  triangle: "4"
+  left: "5"
+  right: "6"
+  up: "7"
+  down: "8"
